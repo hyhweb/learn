@@ -1,0 +1,15 @@
+1.springBoot+redis：
+
+https://blog.csdn.net/stronglyh/article/details/81173563/
+
+https://blog.csdn.net/solocoder/article/details/84141759
+
+2.SpringBoot 2 之整合 JWT 篇(token验证)：
+
+https://blog.csdn.net/ljk126wy/article/details/82751787
+
+https://blog.csdn.net/u014799292/article/details/88365086
+
+3  Spring Boot (十四)： Spring Boot 整合 Shiro-登录认证和权限管理
+
+https://www.cnblogs.com/ityouknow/p/7089177.html

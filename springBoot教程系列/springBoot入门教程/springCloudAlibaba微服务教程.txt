@@ -1,0 +1,7 @@
+1，nacos实现服务注册与两种消费方式：
+
+https://blog.csdn.net/qq_17616169/article/details/90409209
+
+2.服务消费（LoadBalancerClient、Ribbon、Feign）：
+
+https://www.jianshu.com/p/562045489d9d

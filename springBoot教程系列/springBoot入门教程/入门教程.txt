@@ -13,3 +13,28 @@ https://blog.csdn.net/u014799292/article/details/88365086
 3  Spring Boot (十四)： Spring Boot 整合 Shiro-登录认证和权限管理
 
 https://www.cnblogs.com/ityouknow/p/7089177.html
+
+4.springboot多模块项目搭建：
+
+https://blog.csdn.net/tttt01kkkk02/article/details/84100447
+
+
+5.从0开始构建你的api网关--Spring Cloud Gateway网关实战及原理解析
+
+https://www.cnblogs.com/davidwang456/p/10411451.html
+
+6，Spring Boot 相关的开源软件
+
+学习博客
+
+http://springboot.fun
+
+项目主页
+
+https://github.com/ityouknow/awesome-spring-boot
+
+
+
+spring boot 学习博客：
+
+https://blog.csdn.net/gnail_oug/article/category/7608848/2?

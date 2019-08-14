@@ -13,3 +13,19 @@ https://blog.csdn.net/u014799292/article/details/88365086
 3  Spring Boot (十四)： Spring Boot 整合 Shiro-登录认证和权限管理
 
 https://www.cnblogs.com/ityouknow/p/7089177.html
+
+4.Spring Boot 系列（八）@ControllerAdvice 拦截异常并统一处理：
+https://www.cnblogs.com/magicalSam/p/7198420.html
+
+5，SpringBoot学习（3）-SpringBoot添加支持CORS跨域访问：
+
+https://blog.csdn.net/yft_android/article/details/80307672
+
+6,Spring Boot教程(十三)：Spring Boot文件上传
+https://blog.csdn.net/gnail_oug/article/details/80324120
+
+7.SpringBoot2 集成导入和导出：
+
+https://blog.csdn.net/zsj777/article/details/80951610
+
+https://blog.csdn.net/typ1805/article/details/83279532

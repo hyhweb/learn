@@ -1,0 +1,9 @@
+
+1，详解MySQL实现主从复制过程及mycat读写分离步骤:
+
+http://www.zuidaima.com/blog/4063043883584512.htm
+
+,2，入门教程:
+
+
+https://www.cnblogs.com/jpfss/p/8192869.html

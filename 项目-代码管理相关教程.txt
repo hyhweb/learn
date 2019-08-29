@@ -1,0 +1,1 @@
+GitLab 部署及管理员账号初始化：https://blog.csdn.net/hnmpf/article/details/80518460

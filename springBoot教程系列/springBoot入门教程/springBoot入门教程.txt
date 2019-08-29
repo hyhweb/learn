@@ -10,6 +10,11 @@ https://blog.csdn.net/ljk126wy/article/details/82751787
 
 https://blog.csdn.net/u014799292/article/details/88365086
 
+https://blog.csdn.net/achenyuan/article/details/80829401
+
+https://github.com/jwtk/jjwt
+
+
 3  Spring Boot (十四)： Spring Boot 整合 Shiro-登录认证和权限管理
 
 https://www.cnblogs.com/ityouknow/p/7089177.html
@@ -24,8 +29,18 @@ https://blog.csdn.net/yft_android/article/details/80307672
 6,Spring Boot教程(十三)：Spring Boot文件上传
 https://blog.csdn.net/gnail_oug/article/details/80324120
 
+https://blog.csdn.net/chenhaotao/article/details/83717985
+
 7.SpringBoot2 集成导入和导出：
 
 https://blog.csdn.net/zsj777/article/details/80951610
 
 https://blog.csdn.net/typ1805/article/details/83279532
+
+8，SpringBoot学习（3）-SpringBoot添加支持CORS跨域访问
+
+https://blog.csdn.net/yft_android/article/details/80307672
+
+9.Spring Boot 整合Shiro实现登陆认证和权限控制
+
+https://blog.csdn.net/cckevincyh/article/details/79629824

@@ -10,6 +10,8 @@ https://blog.csdn.net/ljk126wy/article/details/82751787
 
 https://blog.csdn.net/u014799292/article/details/88365086
 
+https://www.cnblogs.com/30go/p/10963924.html
+
 3  Spring Boot (十四)： Spring Boot 整合 Shiro-登录认证和权限管理
 
 https://www.cnblogs.com/ityouknow/p/7089177.html
@@ -32,6 +34,8 @@ http://springboot.fun
 项目主页
 
 https://github.com/ityouknow/awesome-spring-boot
+
+https://github.com/zhuoqianmingyue/springbootexamples
 
 
 

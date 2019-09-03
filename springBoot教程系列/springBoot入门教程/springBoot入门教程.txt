@@ -44,3 +44,16 @@ https://blog.csdn.net/yft_android/article/details/80307672
 9.Spring Boot 整合Shiro实现登陆认证和权限控制
 
 https://blog.csdn.net/cckevincyh/article/details/79629824
+
+10.shiro集成 --《springboot与shiro整合》：
+
+
+https://www.cnblogs.com/zls1218/p/8780178.html
+
+
+
+11，SpringBoot2.0整合SpringSecurity并实现验证码和权限控制：
+
+
+https://blog.csdn.net/wangxueqing52/article/details/82628407
+

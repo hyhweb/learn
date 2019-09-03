@@ -3,7 +3,12 @@
 
 http://www.zuidaima.com/blog/4063043883584512.htm
 
-,2，入门教程:
+2，入门教程:
 
 
-https://www.cnblogs.com/jpfss/p/8192869.html
+3,https://www.cnblogs.com/jpfss/p/8192869.html
+
+
+数据库分库分表、读写分离的原理实现，使用场景:
+
+https://youzhixueyuan.com/the-principle-of-separating-tables-reading-and-writing-and-using-scenarios.html
